@@ -6,7 +6,7 @@ author: 阿树
 language: en
 timezone: ''
 url: 'https://fire2345.github.io/blog'
-root: '/blog'
+root: '/'
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
