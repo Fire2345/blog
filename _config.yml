@@ -5,7 +5,8 @@ keywords: null
 author: 阿树
 language: en
 timezone: ''
-url: https://github.com/Fire2345/blog
+url: 'https://github.com/Fire2345'
+root: '/'
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
@@ -61,5 +62,5 @@ ignore: null
 theme: next
 deploy:
   type: git
-  repo: https://github.com/Fire2345/blog.git
+  repo: https://github.com/Fire2345/fire2345.github.io.git
   branch: master

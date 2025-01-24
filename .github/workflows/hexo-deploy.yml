@@ -3,7 +3,7 @@ name: Deploy Hexo Blog
 on:
   push:
     branches:
-      - main  # 源代码仓库的主分支
+      - master  # 源代码仓库的主分支
 
 jobs:
   deploy:
@@ -29,4 +29,4 @@ jobs:
           hexo generate
           hexo deploy
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub Actions提供的token，用于推送代码
+          GITHUB_TOKEN: ${{ secrets.test }}  # GitHub Actions提供的token，用于推送代码
