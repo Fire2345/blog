@@ -1,8 +1,6 @@
 ---
-title: Diary
+title: 《Deep Work》全书碎片式整理
 ---
-
-# 《Deep Work》全书碎片式整理
 
 ## Part One 概念
 
