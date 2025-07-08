@@ -31,7 +31,7 @@ title: 《Mastery》全书碎片化笔记
 
 - Nature will find its own path.
 
-#### KEYS TO MASTERY
+### KEYS TO MASTERY
 - vocation: 使命；
 - All of us are born unique. 这更是一种生物学上基于基因编码的独特性uniqueness；
 - Inclinations：意向，they are forces within us that come from a deeper place than conscious words can express；
@@ -50,7 +50,48 @@ title: 《Mastery》全书碎片化笔记
     - 而衡量自己专业性水平高低或者想拓展自己的专业宽度，可以与不同领域的人（特别包括“小朋友”：运营公司尚且需要新鲜血液）交流（包括内容创作），看看别人的话能否给自己提供新的“广度”、新的感受、建立新的连接，甚至发现蕴藏巨大价值的“新大陆”[^1]，一旦发现就需要自省：自己是否足够专业or自身维度、格局、思考方式能否进一步拓宽；
     - 这其实也是“借”别人的眼睛看世界（格局[^2]），但要“计较”信息质量，这一点又恰恰符合书中所写：人脑善于专注观察以及换位思考。
 
+### STRATEGIES FOR FINDING YOUR LIFE’S TASK
+
+- The misery that oppresses you lies not in your profession but in yourself!
+
+    What I am focusing on is my world.
+
+#### 1. Return to your origins—The primal inclination strategy
+
+- clear indications of an attraction
+    - a simple object that triggers a deep response；
+    - a particular activity that brings with it a feeling of heightened power；
+    - something in culture that sparks a deep connection；
+    - an encounter with an actual Master. 
+
+#### 2. Occupy the perfect niche—The Darwinian strategy
+- **Unoccupied niche**: the narrower the better.
+
+
+#### 3. Avoid the false path—The rebellion strategy
+- > to realize as early as possible that you have chosen your career for the wrong reasons;
+- > to actively rebel against those forces that have pushed you away from your true path.
+- Wrong reasons, not wrong career, what is my true path? What is the indications of my true path? **Something I did with a passion. Something I was good at. Something I am still good at now! So, do the fucking work**.
+
+
+#### 4. Let go of the past—The adaptation strategy
+- > Your eye is on the future, not the past.
+
+    Making use of anything, even the past.
+
+
+#### 5. Find your way back—The life-or-death strategy
+- requires a sacrifice and patience.
+
+### REVERSAL
+- 在思想上要“假装”自己有先天缺陷：ignore your weaknesses and resist the temptation to be more like others.
+    - > focus on the one or two things that you are **inevitably good at** (not love[^3]). 
+- 在行动上：keep digging, erring and expanding.
+
+
 
 [^1]: 作为一个内容创作者，一开始因为虚荣，会潜意识把点赞和评论的数目作为成功的标准，数量越多越开心。但这和吃甜食无异，大部分情况下只是情绪的鼓励，刺激自己的 confirmation bias, 并没有实质性进步，如果时间久了，上瘾了，就更糟糕。<br><br>在数量超过一定基准后 （比如粉丝过五万），应当说服自己修改这种潜意识，而把获得高价值的评论数目作为成功的标准。<br><br>高价值的评论的一个典型特点，是给你关心的话题提供新的内容素材，让你发现全新的关联，这种关联在别的渠道很难主动获取。这种关联，让你原来的孤岛式的认知，又开拓出一片新天地，而财富和其它东西，就是自然而然的衍生品了。 @Svwang1
 
 [^2]: 生活斤斤计较，不见得在职场上斤斤计较。职场上斤斤计较的，必然生活不会斤斤计较。 @大哥
+
+[^3]: 因为专业，所以擅长，因为擅长，所以合适，因为合适，所以擅长，因为擅长，所以专业，因为专业，才能赚到钱。所以不要谈喜欢。 @大哥
