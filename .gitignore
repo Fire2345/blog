@@ -7,5 +7,6 @@ public/
 .deploy*/
 _multiconfig.yml
 .themes/
-source/_posts/stars/*
+source/_posts/_drafts/*
 source/_posts/.obsidian/*
+source/_posts/.gitignore
